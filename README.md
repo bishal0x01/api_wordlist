@@ -1,2 +1,2 @@
 # api_wordlist
-Some wordlist word list for Fuzzing 
+Some wordlist word list collection for Fuzzing 
